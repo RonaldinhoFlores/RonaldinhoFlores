@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ronalfinho Flores Layme
+- 👋 Hi, I’m Ronaldinho Flores Layme
 - 👀 I am interested in web development, working with tools such as PHP, JavaScript, HTML, CSS, Bosstrap, and MySQL.
 - 🌱 I'm currently learning Java for desktop applications with databases and I'm also reinforcing my knowledge in PHP and MySQL.
 - 💞️ I'm looking to collaborate on a small local web project, but I aspire to work on larger, more personalized projects.
